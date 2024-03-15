@@ -1,1 +1,1 @@
-This is my 2024 R class study record!
+This is my 2024 R class study recor！
