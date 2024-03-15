@@ -1,1 +1,1 @@
-https://github.com/shanshan717/R_2024_Homework_ss.git
+This is my 2024 R class study record!
